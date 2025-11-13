@@ -40,23 +40,23 @@ It includes smooth animations, glassmorphic UI, and a cinematic hero section wit
     Framer Motion = Smooth animations and parallax effects
     TypeScript (optional) = Type safety and clean code
 
-## Design System
+# Design System
 
-# Theme:
+## Theme:
 
     Dark, minimal, and futuristic
 
-# Primary Colors:
+## Primary Colors:
 
     Charcoal #0e0e0e
     White #ffffff
     Orange Accent #ff7b00
 
-# Fonts:
+## Fonts:
 
     Poppins, Inter, or Montserrat
 
-# Design Style:
+## Design Style:
 
     Glassmorphic Navbar
     Subtle parallax hero background
@@ -99,7 +99,7 @@ It includes smooth animations, glassmorphic UI, and a cinematic hero section wit
 ## Setup Instructions
 
 1. Clone the Repository
-   git clone https://github.com/your-username/vyomgarud-landing.git
+   [git clone https://github.com/your-username/vyomgarud-landing.git](https://github.com/Karanx11/vyomgarud-landing/tree/main)
    cd vyomgarud-landing
 
 2. Install Dependencies
@@ -108,7 +108,7 @@ It includes smooth animations, glassmorphic UI, and a cinematic hero section wit
 3. Run the Development Server
    npm run dev
 
-Then open http://localhost:3000
+Then open [http://localhost:3000](http://localhost:3000/)
 in your browser.
 
 4. Build for Production
@@ -117,6 +117,6 @@ in your browser.
 
 ## Developer Information
 
-Created by Karan Sharma
+Created by ### Karan Sharma
 
 This project demonstrates practical skills in Next.js, Tailwind CSS, Framer Motion, and modern UI/UX design principles.
