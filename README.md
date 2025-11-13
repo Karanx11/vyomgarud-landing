@@ -3,6 +3,10 @@
 A clean, confident, and futuristic landing page built for VyomGarud, a next-generation UAV and defense technology company.
 Developed using Next.js, Tailwind CSS, and Framer Motion, this website represents precision, reliability, and autonomy through a modern design and subtle animations.
 
+## Live Preview
+[https://vyomgarud-landing.vercel.app](https://vyomgarud-landing-lyart.vercel.app/)
+
+
 ## Overview
 
 This landing page is designed to reflect high reliability and advanced engineering — similar in tone and style to leading technology brands like Onomondo.
