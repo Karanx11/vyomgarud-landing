@@ -99,7 +99,7 @@ It includes smooth animations, glassmorphic UI, and a cinematic hero section wit
 ## Setup Instructions
 
 1. Clone the Repository
-   [git clone https://github.com/your-username/vyomgarud-landing.git](https://github.com/Karanx11/vyomgarud-landing/tree/main)
+   [git clone https://github.com/Karanx11/vyomgarud-landing.git](https://github.com/Karanx11/vyomgarud-landing/tree/main)
    cd vyomgarud-landing
 
 2. Install Dependencies
