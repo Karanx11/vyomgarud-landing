@@ -1,4 +1,4 @@
-### VyomGarud – Modern UAV Landing Page
+# VyomGarud – Modern UAV Landing Page
 
 A clean, confident, and futuristic landing page built for VyomGarud, a next-generation UAV and defense technology company.
 Developed using Next.js, Tailwind CSS, and Framer Motion, this website represents precision, reliability, and autonomy through a modern design and subtle animations.
@@ -34,11 +34,11 @@ It includes smooth animations, glassmorphic UI, and a cinematic hero section wit
 
 ## Tech Stack
 
-Technology Purpose
-Next.js 14 (App Router) = Framework for the landing page
-Tailwind CSS = Utility-first styling
-Framer Motion = Smooth animations and parallax effects
-TypeScript (optional) = Type safety and clean code
+# Technology Purpose
+    Next.js 14 (App Router) = Framework for the landing page
+    Tailwind CSS = Utility-first styling
+    Framer Motion = Smooth animations and parallax effects
+    TypeScript (optional) = Type safety and clean code
 
 ## Design System
 
@@ -65,42 +65,36 @@ TypeScript (optional) = Type safety and clean code
 
 ## Features
 
-Fixed transparent glassmorphic Navbar
-
-Cinematic Hero section with zoom-out parallax
-
-Smooth scroll navigation
-
-Scroll reveal animations for every section
-
-Animated highlight cards on hover
-
-Functional Contact Form (UI only)
-
-Fully responsive across devices
+    Fixed transparent glassmorphic Navbar
+    Cinematic Hero section with zoom-out parallax
+    Smooth scroll navigation
+    Scroll reveal animations for every section
+    Animated highlight cards on hover
+    Functional Contact Form (UI only)
+    Fully responsive across devices
 
 ## Project Structure
 
-vyomgarud-landing/
-├─ app/
-│ ├─ components/
-│ │ ├─ Reveal.tsx
-│ ├─ page.tsx
-| ├─ Navbar.tsx
-│ ├─ globals.css
-├─ public/
-│ ├─ hero-bg.jpg
-│ ├─ reliability.jpg
-│ ├─ intelligence.jpg
-│ ├─ engineering.jpg
-├─ screenshot/
-│ ├─ hero.png
-│ ├─ about.png
-│ ├─ capabilities.png
-│ ├─ highlights.png
-│ └─ contact.png
-├─ package.json
-└─ tailwind.config.js
+    vyomgarud-landing/
+    ├─ app/
+    │ ├─ components/
+    │ │ ├─ Reveal.tsx
+    │ ├─ page.tsx
+    | ├─ Navbar.tsx
+    │ ├─ globals.css
+    ├─ public/
+    │ ├─ hero-bg.jpg
+    │ ├─ reliability.jpg
+    │ ├─ intelligence.jpg
+    │ ├─ engineering.jpg
+    ├─ screenshot/
+    │ ├─ hero.png
+    │ ├─ about.png
+    │ ├─ capabilities.png
+    │ ├─ highlights.png
+    │ └─ contact.png
+    ├─ package.json
+    └─ tailwind.config.js
 
 ## Setup Instructions
 
