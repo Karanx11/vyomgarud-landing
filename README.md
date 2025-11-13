@@ -117,6 +117,6 @@ in your browser.
 
 ## Developer Information
 
-Created by ### Karan Sharma
+Created by Karan Sharma
 
 This project demonstrates practical skills in Next.js, Tailwind CSS, Framer Motion, and modern UI/UX design principles.
